@@ -1,0 +1,40 @@
+img{
+    width: 20% ;
+    float: left;
+
+}
+.block{ 
+    width: 800px;
+    margin: auto;
+    border:2px solid rgb(20, 20, 20) ;
+    border-radius: 10px ;
+    padding: 20px;
+background-color: rgba(251, 253, 253, 0.473); 
+} 
+.menu{
+    olor: rgb(60, 175, 6);
+   text-decoration: none;
+   text-transform: uppercase;
+   background: rgb(111, 0, 255) ;
+   padding:5px 10px ;
+  float:right ; 
+}
+.ins{
+    width: 800px;
+    margin: auto;
+    border:2px solid rgb(20, 20, 20) ;
+    border-radius: 10px ;
+    padding: 20px;
+background-color: rgba(251, 253, 253, 0.473); 
+}
+.ul{
+    width: 800px;
+    margin: auto;
+    border:2px solid rgb(20, 20, 20) ;
+    border-radius: 10px ;
+    padding: 20px;
+background-color: rgba(251, 253, 253, 0.473);  
+}
+body{
+    background: url(https://mobimg.b-cdn.net/v3/fetch/13/13bdc6be06334e59bb4a77663e67eb88.jpeg);
+}
